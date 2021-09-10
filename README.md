@@ -1,5 +1,10 @@
 ## Hi There SunskyR🌈
+ I'm a free software enthusiast. From China.
+ 
+ Contact me[![](https://img.shields.io/badge/Telegram-Sylase-%2326A5E4?style=for-the-badge&logo=telegram)](https://t.me/Sylase)
 ![](http://antzuhl.cn:4000/get/@sunskyr.readme)
+
+
 ![info](https://github-readme-stats.vercel.app/api?username=SunskyR&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 ### Platform&Tools
@@ -14,4 +19,5 @@
 [![](https://img.shields.io/badge/-C-%23A8B9CC?style=for-the-badge&logo=cplusplus)](cppreference.com)
 ### I love Firefox Browser
 [![](https://img.shields.io/badge/Browser-Firefox-%23FF7139?style=for-the-badge&logo=firefoxbrowser)](mozilla.org)
+
 
