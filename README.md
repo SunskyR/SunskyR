@@ -11,3 +11,7 @@
 
 ### Language
 [![](https://img.shields.io/badge/-Rust-%23000000?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
+[![](https://img.shields.io/badge/-C-%23A8B9CC?style=for-the-badge&logo=c)](cppreference.com)
+### I love Firefox Browser
+[![](https://img.shields.io/badge/Browser-Firefox-%23FF7139?style=for-the-badge&logo=firefoxbrowser)](mozilla.org)
+
