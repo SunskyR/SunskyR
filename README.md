@@ -7,8 +7,7 @@
 
 ![info](https://github-readme-stats.vercel.app/api?username=SunskyR&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sunskyr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=sunskyr&theme=gruvbox&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Platform&Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
