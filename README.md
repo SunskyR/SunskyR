@@ -1,5 +1,5 @@
 <h1 align="center">Hi There ocfox🦊</h1>
-<p align="center">I'm a free software enthusiast. From China.</p>
+<p align="center">I am a cute origin code fox. Like free software and open source. Chinese fox.</p>
 <h3 align="center">Content Me</h3>
 <p align="center">
   <a href="https://t.me/Sylase"
@@ -8,7 +8,7 @@
   /></a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sunskyr&show_icons=true&theme=dracula"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ocfox&show_icons=true&theme=dracula"></a>
 </p>
 
 ---
