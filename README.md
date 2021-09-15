@@ -26,8 +26,15 @@
 [![](https://img.shields.io/badge/-Rust-%23000000?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/-C-%23A8B9CC?style=for-the-badge&logo=cplusplus)](cppreference.com)
 
-<h3 align="center">I love Firefox Browser</h3>
-
-[![](https://img.shields.io/badge/Browser-Firefox-%23FF7139?style=for-the-badge&logo=firefoxbrowser)](mozilla.org)
-
+<!-- waka-box start -->
+#### <a href="https://gist.github.com/e58af65d6f8b1c57b064b53eccbc2857" target="_blank"> 每周工作报告</a>
+```text
+Vue.js     🕓 6h46m ██████████████▍░░░░░░░░░░░░░ 51.4%
+JavaScript 🕓 3h57m ████████▍░░░░░░░░░░░░░░░░░░░ 30.0%
+JSON       🕓 47m   █▋░░░░░░░░░░░░░░░░░░░░░░░░░░  6.0%
+HTML       🕓 33m   █▏░░░░░░░░░░░░░░░░░░░░░░░░░░  4.2%
+GLSL       🕓 27m   ▉░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.4%
+```
+<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
+<!-- waka-box end -->
 
