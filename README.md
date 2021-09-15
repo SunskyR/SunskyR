@@ -31,15 +31,11 @@
 <td valign="top" width="50%">
 
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/a074b1d99d36db5b72c8ef9c1436a074" target="_blank">📊 每周工作报告</a>
+📊 Weekly development breakdown
 ```text
-Vue.js     🕓 6h46m ██████████████▍░░░░░░░░░░░░░ 51.4%
-JavaScript 🕓 3h57m ████████▍░░░░░░░░░░░░░░░░░░░ 30.0%
-JSON       🕓 47m   █▋░░░░░░░░░░░░░░░░░░░░░░░░░░  6.0%
-HTML       🕓 33m   █▏░░░░░░░░░░░░░░░░░░░░░░░░░░  4.2%
-GLSL       🕓 27m   ▉░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.4%
+Still Gathering Statistics...
 ```
-<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
 [powered by waka-box-go](https://github.com/journey-ad/waka-box-go)
