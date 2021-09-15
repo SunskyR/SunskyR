@@ -44,9 +44,13 @@ Still Gathering Statistics...
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
+🎮 Steam playtime leaderboard
 ```text
-🚫 啊哦，最近好像没有玩过游戏呢
+🔫 Counter-Strike: Global Offensive 🕘 1228 hrs 56 mins
+🎮 Apex Legends                     🕘 192 hrs 12 mins
+🎮 Dead Cells                       🕘 67 hrs 22 mins
+🎮 7 Days to Die                    🕘 46 hrs 11 mins
+🦾 Cyberpunk 2077                   🕘 40 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
