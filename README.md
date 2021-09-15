@@ -1,5 +1,6 @@
 <h1 align="center">Hi There ocfox🦊</h1>
 <p align="center">I am a cute origin code fox. Like free software and open source. Chinese fox.</p>
+<img src="https://count.getloli.com/get/@:ocfox" alt=":ocfox" />
 <h3 align="center">Content Me</h3>
 <p align="center">
   <a href="https://t.me/Sylase"
