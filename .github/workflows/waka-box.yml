@@ -13,7 +13,7 @@ jobs:
     name: Update-waka-stats
     runs-on: ubuntu-latest
     env:
-      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      WAKATIME_API_KEY: 906d54d8-51a9-4187-9bb1-8550f267ef41
       UPDATE_OPTION: MARKDOWN
       MARKDOWN_FILE: README.md
       GIST_BARSTYLE: SOLIDLT
