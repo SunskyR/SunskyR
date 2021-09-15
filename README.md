@@ -1,6 +1,11 @@
 <h1 align="center">Hi There ocfox🦊</h1>
 <p align="center">I am a cute origin code fox. Like free software and open source. Chinese fox.</p>
-<img src="https://count.getloli.com/get/@:ocfox" alt=":ocfox" />
+<p align="center">
+  <img src="https://count.getloli.com/get/@:ocfox" alt=":ocfox" />
+</p>
+
+---
+
 <h3 align="center">Content Me</h3>
 <p align="center">
   <a href="https://t.me/Sylase"
@@ -8,12 +13,6 @@
       src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=27"
   /></a>
 </p>
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ocfox&show_icons=true&theme=dracula"></a>
-</p>
-
----
-
 <h3 align="center">Platform&Tools</h3>
 
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
