@@ -27,14 +27,10 @@
 [![](https://img.shields.io/badge/-C-%23A8B9CC?style=for-the-badge&logo=cplusplus)](cppreference.com)
 
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/e58af65d6f8b1c57b064b53eccbc2857" target="_blank"> 每周工作报告</a>
+📊 Weekly development breakdown
 ```text
-Vue.js     🕓 6h46m ██████████████▍░░░░░░░░░░░░░ 51.4%
-JavaScript 🕓 3h57m ████████▍░░░░░░░░░░░░░░░░░░░ 30.0%
-JSON       🕓 47m   █▋░░░░░░░░░░░░░░░░░░░░░░░░░░  6.0%
-HTML       🕓 33m   █▏░░░░░░░░░░░░░░░░░░░░░░░░░░  4.2%
-GLSL       🕓 27m   ▉░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.4%
+Still Gathering Statistics...
 ```
-<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
