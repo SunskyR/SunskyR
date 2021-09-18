@@ -21,7 +21,7 @@
 [![](https://img.shields.io/badge/Windows-11-%230078D6?style=flat-square&logo=windows)](https://www.microsoft.com/en-us/windows)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visualstudio)](https://code.visualstudio.com/)
 
-<h3 align="center">Language</h3>
+<h3 align="center">Programming</h3>
 
 [![](https://img.shields.io/badge/-Rust-%23000000?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/-C-%23A8B9CC?style=for-the-badge&logo=cplusplus)](cppreference.com)
