@@ -54,7 +54,7 @@ Go         🕓 5m    ▍░░░░░░░░░░░░░░░░░░�
 🎮 Steam playtime leaderboard
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1228 hrs 56 mins
-🎮 Apex Legends                     🕘 192 hrs 12 mins
+🎮 Apex Legends                     🕘 192 hrs 33 mins
 🎮 Dead Cells                       🕘 67 hrs 22 mins
 🎮 7 Days to Die                    🕘 46 hrs 11 mins
 🦾 Cyberpunk 2077                   🕘 40 hrs 14 mins
