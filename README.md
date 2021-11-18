@@ -31,21 +31,7 @@
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 
 <table>
-<tr>
-<td valign="top" width="50%">
 
-<!-- waka-box start -->
-📊 Weekly development breakdown
-```text
-Rust 🕓 20m ████████████████████████████████████100.0%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
-
-[powered by waka-box-go](https://github.com/journey-ad/waka-box-go)
-
-</td>
-<td valign="top" width="50%">
 
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
@@ -61,6 +47,4 @@ Rust 🕓 20m ██████████████████████
 
 [powered by steam-box](https://github.com/journey-ad/steam-box)
 
-</td>
-</tr>
 </table>
