@@ -16,7 +16,7 @@
 <h3 align="center">Platform&Tools</h3>
 
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/OS-NixOS-%235277C3?style=flat-square&logo=nixos)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/OS-NixOS-%235277C3?style=flat-square&logo=nixos)](https://nixos.org/)
 [![](https://img.shields.io/badge/macOS-Apple%20Silicon-%23000000?style=flat-square&logo=apple)](https://www.macrumors.com/guide/m1/)
 [![](https://img.shields.io/badge/Xiaomi-%C2%A51000-%23FF6900?style=flat-square&logo=xiaomi)](mi.com)
 [![](https://img.shields.io/badge/Windows-11-%230078D6?style=flat-square&logo=windows)](https://www.microsoft.com/en-us/windows)
