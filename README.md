@@ -8,7 +8,7 @@
 
 <h3 align="center">Content Me</h3>
 <p align="center">
-  <a href="https://t.me/skye_bot"
+  <a href="https://t.me/ocfox"
     ><img
       src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=27"
   /></a>
