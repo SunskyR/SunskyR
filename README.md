@@ -20,7 +20,7 @@
 [![](https://img.shields.io/badge/macOS-Apple%20Silicon-%23000000?style=flat-square&logo=apple)](https://www.macrumors.com/guide/m1/)
 [![](https://img.shields.io/badge/Xiaomi-%C2%A51000-%23FF6900?style=flat-square&logo=xiaomi)](mi.com)
 [![](https://img.shields.io/badge/Windows-11-%230078D6?style=flat-square&logo=windows)](https://www.microsoft.com/en-us/windows)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visualstudio)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-Neovim-%23007ACC?style=flat-square&logo=neovim)](https://neovim.org/)
 
 <h3 align="center">Programming</h3>
 
