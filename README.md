@@ -12,6 +12,10 @@
     ><img
       src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=27"
   /></a>
+  <a href="mailto:i@ocfox.me"
+    ><img
+      src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=maildotru&logoColor=white&logoWidth=27"
+  /></a>
 </p>
 
 PGP: [`C912 90E5 B8F6 93A3 4068  CD72 8F2B 0B36 4AE3 0E23`](./pubkey.asc)
