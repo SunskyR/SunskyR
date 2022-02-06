@@ -1,5 +1,5 @@
 <h1 align="center">Hi There ocfox🦊</h1>
-<p align="center">I am a cute origin code fox. Like free software and open source.</p>
+<p align="center">I am a cute overclocking fox. Like free software and open source.</p>
 <p align="center">
   <img src="https://count.getloli.com/get/@:ocfox" alt=":ocfox" />
 </p>
@@ -36,21 +36,4 @@ PGP: [`C912 90E5 B8F6 93A3 4068  CD72 8F2B 0B36 4AE3 0E23`](./pubkey.asc)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 
-<table>
 
-
-<!-- steam-box start -->
-🎮 Steam playtime leaderboard
-```text
-🔫 Counter-Strike: Global Offensive 🕘 1228 hrs 56 mins
-🎮 Apex Legends                     🕘 192 hrs 33 mins
-🎮 Dead Cells                       🕘 67 hrs 22 mins
-🎮 7 Days to Die                    🕘 46 hrs 11 mins
-🦾 Cyberpunk 2077                   🕘 40 hrs 14 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
-
-[powered by steam-box](https://github.com/journey-ad/steam-box)
-
-</table>
