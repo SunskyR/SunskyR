@@ -18,7 +18,7 @@
   /></a>
 </p>
 
-PGP: [`C912 90E5 B8F6 93A3 4068  CD72 8F2B 0B36 4AE3 0E23`](./pubkey.asc)
+PGP: [`912 90E5 B8F6 93A3 4068  CD72 8F2B 0B36 4AE3 0E23`](./pubkey.asc)
 <h3 align="center">Platform&Tools</h3>
 
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
