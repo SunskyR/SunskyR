@@ -6,7 +6,7 @@
 
 ---
 
-<h3 align="center">Content Me</h3>
+<h3 align="center">Contact Me</h3>
 <p align="center">
   <a href="https://t.me/ocfox"
     ><img
