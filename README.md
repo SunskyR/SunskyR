@@ -8,9 +8,9 @@
 
 <h3 align="center">Contact Me</h3>
 <p align="center">
-  <a href="https://t.me/ocfox"
+  <a href="https://matrix.to/#/@ocfox:matrix.org"
     ><img
-      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=27"
+      src="https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white&logoWidth=27"
   /></a>
   <a href="mailto:i@ocfox.me"
     ><img
