@@ -25,7 +25,7 @@ PGP: [`939E F8A5 CED8 7F50 5BB5  B2D0 24BC 2738 5F70 234F`](./pubkey.asc)
 [![](https://img.shields.io/badge/macOS-Apple%20Silicon-%23000000?style=flat-square&logo=apple)](https://www.macrumors.com/guide/m1/)
 [![](https://img.shields.io/badge/IDE-Neovim-%23007ACC?style=flat-square&logo=neovim)](https://neovim.org/)
 
-<h3 align="center">Programming</h3>
+<h3 align="center">Learning</h3>
 
 [![](https://img.shields.io/badge/-Rust-%23000000?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/-C-%23A8B9CC?style=for-the-badge&logo=cplusplus)](cppreference.com)
