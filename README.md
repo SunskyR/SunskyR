@@ -1,5 +1,5 @@
-<h1 align="center">Hi There ocfox🦊</h1>
-<p align="center">I am a cute overclocking fox. Like free software and open source.</p>
+<h1 align="center">Hi, here is ocfox</h1>
+<p align="center">I like everything interesting.</p>
 <p align="center">
   <img src="https://count.getloli.com/get/@:ocfox" alt=":ocfox" />
 </p>
